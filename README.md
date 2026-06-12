@@ -1,4 +1,4 @@
-# Shift Planner (demo below)
+# Shift Planner (Demo below)
 
 A visual shift-coverage planner that turns a flat agent roster into a filterable view of who works when, where coverage falls short of target, and which assignments breach working-time rules — across markets, operations and a multi-week horizon.
 
